@@ -8,5 +8,5 @@
 
 - **Coding Technique Exploration**
     -To create this kind of symmetrical effect, I found a great example using p5.js called “Kaleidoscope.” It uses polar coordinates and rotation to copy shapes around in a circle. This makes a pattern that repeats like a real kaleidoscope. It’s perfect for getting that William Morris style and turning it into something users can play with.
-    [Technique Link](https://p5js.org/examples/repetition-kaleidoscope/)
+    -[Technique Link](https://p5js.org/examples/repetition-kaleidoscope/)
     ![An image of screenshot showcasing](readmeImages/4.png)
